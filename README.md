@@ -21,6 +21,8 @@ Pasang modem usb ke Rasp
 4. koneksikan modem dengan perintah
 	
 	sudo wvdial
+   atau dengan 
+	sudo wvdial & 
 	
 5. apabila koneksi sudah OK, tekan tombol ctrl+C untuk menggunakan terminal
 
